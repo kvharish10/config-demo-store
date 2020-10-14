@@ -1,0 +1,7 @@
+employee:
+ count: 100
+ address:
+  value: hyderabad
+company:
+ address:
+  value: bangalore
