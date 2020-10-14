@@ -1,0 +1,7 @@
+employee:
+ count: 200
+ address:
+  value: mumbai
+company:
+ address:
+  value: delhi
