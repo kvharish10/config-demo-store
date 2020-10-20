@@ -1,7 +1,7 @@
 employee:
  count: 100
  address:
-  value: hyderabad
+  value: Telangana
 company:
  address:
   value: mizoram
