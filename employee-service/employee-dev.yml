@@ -1,7 +1,7 @@
 employee:
  count: 800
  address:
-  value: hyderabad
+  value: hyderabad-tarnaka
 company:
  address:
-  value: bangalore
+  value: bangalore-belandur
