@@ -1,2 +1,2 @@
 global:
-  timeout: 5600
+  timeout: 10000
